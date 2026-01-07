@@ -10,8 +10,6 @@
 # 🌷 Oii! Sou a Hillary
 👩🏽‍💻 Sou estudante de Desenvolvimento de Sistemas, com foco em desenvolvimento backend.<br/>
 
-# 💻 My Stack
-
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
@@ -25,12 +23,10 @@
   <img width="8" />
 </div>
 
-
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:hillarycg2008@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/hillarypng/)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GomesHillary/GomesHillary/output/github-contribution-grid-snake-dark.svg">
